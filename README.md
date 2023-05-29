@@ -28,5 +28,7 @@ $$Z_{a,b} = \sum\limits_{\lambda_{k} \neq 0 } \frac{(\psi_{k,a} - \psi_{k,b})^2}
 
 Refreances
 
-[1.]
-[2.]
+[1.] F Y Wu 2004 J. Phys. A: Math. Gen. 37 6653
+
+[2.] W J Tzeng and F Y Wu 2006 J. Phys. A: Math. Gen. 39 8579
+
