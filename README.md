@@ -12,4 +12,5 @@ where $I$ is the current entering at $a$ or leaving at $b$
 
 This naturally involves inverting $V = JI$, but it should be noted that $J$ matrix is singular from construction and thus is non-invertable. 
 
-To get around this issue, we first  formulate the eigenvalues and eigenvectors for the hermitian matrix $J^{\dagger}J$
+To get around this issue, we first  formulate the eigenvalues and eigenvectors for the hermitian matrix $J^{\dagger}J$, 
+$$ J^{\dagger} J \psi_{\alpha} = \sigma_{\alpha} \psi_{\alpha} $$
