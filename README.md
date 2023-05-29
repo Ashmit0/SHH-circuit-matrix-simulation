@@ -21,4 +21,4 @@ $$J u_{\alpha} = \lambda_{\alpha} u_{\alpha}^{\star}$$
 where $\lambda_{\alpha} = \sqrt{\sigma_{\alpha}}e^{\iota \theta_{\alpha}}$. 
 
 thus we have 
-$U^{T}JU = \Delta(\epsilon)$ and $J^{-1} = U\Delta(\epsilon)^{-1}U^{T}$
+$U^{T}JU = \Delta(\epsilon)$ and $J^{-1} = U\Delta^{-1}(\epsilon)U^{T}$
