@@ -10,4 +10,6 @@ The equivalant impedance between two nodes $a$ and $b$ is formulatied by appling
 $$Z_{a,b} = \frac{V_a - V_b}{I}$$
 where $I$ is the current entering at $a$ or leaving at $b$
 
-This naturally involves inverting $V = JI$. 
+This naturally involves inverting $V = JI$, but it should be noted that $J$ matrix is singular from construction and thus is non-invertable. 
+
+To get around this issue, we first  formulate the eigenvalues and eigenvectors for the hermitian matrix $J^{\dagger}J$
