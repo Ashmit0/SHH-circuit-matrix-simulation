@@ -32,3 +32,5 @@ Refreances
 
 [2.] W J Tzeng and F Y Wu 2006 J. Phys. A: Math. Gen. 39 8579
 
+[3.] Lee, Ching Hua, et al. "Topolectrical circuits." Communications Physics 1.1 (2018): 39.
+
