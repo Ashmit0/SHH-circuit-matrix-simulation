@@ -19,4 +19,6 @@ $$J^{\dagger} J \psi_{\alpha} = \sigma_{\alpha} \psi_{\alpha}$$
 It can be proved that there exist orthonormal vectors $u_{\alpha}$ such that 
 $$J u_{\alpha} = \lambda_{\alpha} u_{\alpha}^{\star}$$
 where $\lambda_{\alpha} = \sqrt{\sigma_{\alpha}}e^{\iota \theta_{\alpha}}$. 
-thus we have $U^{T}JU = \Delta(\epsilon)$
+
+thus we have 
+$U^{T}JU = \Delta(\epsilon)$ and $J^{-1} = U\Delta(\epsilon)^{-1}U^{T}$
