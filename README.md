@@ -23,7 +23,7 @@ where $\lambda_{\alpha} = \sqrt{\sigma_{\alpha}}e^{\iota \theta_{\alpha}}$.
 thus we have 
 $U^{T}JU = \Delta(\epsilon)$ and $J^{-1} = U\Delta^{-1}(\epsilon)U^{T}$, this allows us to invert the above stated equation, and taking $I_{i} = I(\delta_{a ,i} - \delta_{b , i })$ after some calulation we can show that 
 
-$$Z_{a,b} = \sum\limits_{\lambda_{k} \neq 0 } \frac{\psi_{k,a} - \psi_{k,b}}{\lambda{k}}$$
+$$Z_{a,b} = \sum\limits_{\lambda_{k} \neq 0 } \frac{(\psi_{k,a} - \psi_{k,b})^2}{\lambda_{k}}$$
 
 
 Refreances
