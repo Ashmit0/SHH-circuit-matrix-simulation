@@ -5,3 +5,4 @@ For a $N$ node circuit, the $J$ matrix is defined as $J(i , j) = -C_{i,j}$ when 
 The circuital equation in this formalism is given as; 
 $$V = JI$$ 
 where $V$ and $I$ are node voltage and current column vectors.
+
